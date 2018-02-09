@@ -1,0 +1,2 @@
+# Codsworth
+Codsworth Discord Bot
